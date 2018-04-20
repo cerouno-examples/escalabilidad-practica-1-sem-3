@@ -8,7 +8,7 @@ cerouno123!
 
 2.- Descargar putty y configurar la conexion a su server
 
-3.- Conectarse a su servidor
+3.- Conectarse a su servidor (ec2-user)
 
 4.- Instalar Dotnet:
 
