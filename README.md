@@ -17,6 +17,8 @@ https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-putty-
 4.- Instalar Dotnet:
 
 
+sudo yum install libunwind libicu
+
 curl -sSL -o dotnet.tar.gz https://download.microsoft.com/download/7/3/A/73A3E4DC-F019-47D1-9951-0453676E059B/dotnet-sdk-2.0.2-linux-x64.tar.gz 
 
 
