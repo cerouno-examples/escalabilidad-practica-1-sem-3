@@ -64,6 +64,6 @@ location / {
     
 12.- Guardar archivo y reiniciar nginx
 
-sudo nginx service restart
+sudo service nginx restart
 
 13.- Probar sitio http://ip
