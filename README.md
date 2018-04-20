@@ -8,6 +8,9 @@ cerouno123!
 
 2.- Descargar putty y configurar la conexion a su server
 
+https://www.digitalocean.com/community/tutorials/how-to-use-ssh-keys-with-putty-on-digitalocean-droplets-windows-users
+(donde empieza: Setting Up an SSH Session with SSH Keys in PuTTY)
+
 3.- Conectarse a su servidor (ec2-user)
 
 4.- Instalar Dotnet:
