@@ -29,7 +29,7 @@ sudo ln -s /opt/dotnet/dotnet /usr/local/bin
 
 5.- Probar comando dotnet (no debe mostrar error)
 
-6.- dotnet new mvc test
+6.- dotnet new mvc --name test
 
 7.- cd test
 
